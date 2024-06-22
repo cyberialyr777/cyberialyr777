@@ -5,7 +5,7 @@
 #### I'm a Software Engineer student. My areas of expertise are currently fullstack web development. Right now I'm learning about mobile development and data science.
 
 ***
-- 🔭 I’m currently working on a mobile app to find scholarships easily
+- 🔭 I’m currently in an intership :)
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about web development!
 - 😄 Pronouns: She/her
